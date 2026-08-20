@@ -1,0 +1,601 @@
+location,time,pm10,pm2_5,carbon_monoxide
+Bengaluru City Center,2026-08-20T00:00,8.0,4.8,182.0
+Bengaluru City Center,2026-08-20T01:00,8.1,5.0,231.0
+Bengaluru City Center,2026-08-20T02:00,8.8,5.4,294.0
+Bengaluru City Center,2026-08-20T03:00,10.0,6.0,328.0
+Bengaluru City Center,2026-08-20T04:00,13.7,7.0,305.0
+Bengaluru City Center,2026-08-20T05:00,15.0,7.4,253.0
+Bengaluru City Center,2026-08-20T06:00,15.7,7.5,214.0
+Bengaluru City Center,2026-08-20T07:00,16.8,7.6,205.0
+Bengaluru City Center,2026-08-20T08:00,17.2,7.6,209.0
+Bengaluru City Center,2026-08-20T09:00,16.4,7.5,222.0
+Bengaluru City Center,2026-08-20T10:00,16.9,7.7,246.0
+Bengaluru City Center,2026-08-20T11:00,19.2,9.1,279.0
+Bengaluru City Center,2026-08-20T12:00,15.3,9.4,308.0
+Bengaluru City Center,2026-08-20T13:00,13.5,9.5,330.0
+Bengaluru City Center,2026-08-20T14:00,13.0,9.7,348.0
+Bengaluru City Center,2026-08-20T15:00,12.4,9.2,357.0
+Bengaluru City Center,2026-08-20T16:00,11.1,8.4,359.0
+Bengaluru City Center,2026-08-20T17:00,10.0,7.7,352.0
+Bengaluru City Center,2026-08-20T18:00,9.0,7.0,329.0
+Bengaluru City Center,2026-08-20T19:00,7.7,6.0,277.0
+Bengaluru City Center,2026-08-20T20:00,6.8,5.3,210.0
+Bengaluru City Center,2026-08-20T21:00,6.0,4.7,161.0
+Bengaluru City Center,2026-08-20T22:00,5.5,4.3,141.0
+Bengaluru City Center,2026-08-20T23:00,5.0,4.0,138.0
+Bengaluru City Center,2026-08-21T00:00,4.5,3.6,154.0
+Bengaluru City Center,2026-08-21T01:00,4.4,3.4,205.0
+Bengaluru City Center,2026-08-21T02:00,5.9,4.0,275.0
+Bengaluru City Center,2026-08-21T03:00,7.5,5.2,314.0
+Bengaluru City Center,2026-08-21T04:00,9.0,5.9,289.0
+Bengaluru City Center,2026-08-21T05:00,9.9,6.2,234.0
+Bengaluru City Center,2026-08-21T06:00,10.9,6.5,193.0
+Bengaluru City Center,2026-08-21T07:00,13.1,7.1,185.0
+Bengaluru City Center,2026-08-21T08:00,15.4,7.6,192.0
+Bengaluru City Center,2026-08-21T09:00,17.1,8.1,208.0
+Bengaluru City Center,2026-08-21T10:00,17.2,8.2,235.0
+Bengaluru City Center,2026-08-21T11:00,15.9,8.1,270.0
+Bengaluru City Center,2026-08-21T12:00,14.0,7.9,300.0
+Bengaluru City Center,2026-08-21T13:00,12.8,8.7,322.0
+Bengaluru City Center,2026-08-21T14:00,12.7,9.3,339.0
+Bengaluru City Center,2026-08-21T15:00,11.6,8.9,342.0
+Bengaluru City Center,2026-08-21T16:00,10.7,8.3,324.0
+Bengaluru City Center,2026-08-21T17:00,10.2,8.0,291.0
+Bengaluru City Center,2026-08-21T18:00,8.6,6.8,256.0
+Bengaluru City Center,2026-08-21T19:00,7.1,5.7,218.0
+Bengaluru City Center,2026-08-21T20:00,5.7,4.7,178.0
+Bengaluru City Center,2026-08-21T21:00,4.5,3.8,149.0
+Bengaluru City Center,2026-08-21T22:00,3.9,3.3,135.0
+Bengaluru City Center,2026-08-21T23:00,3.9,3.1,132.0
+Bengaluru City Center,2026-08-22T00:00,4.2,3.3,144.0
+Bengaluru City Center,2026-08-22T01:00,4.8,3.8,187.0
+Bengaluru City Center,2026-08-22T02:00,5.1,4.2,244.0
+Bengaluru City Center,2026-08-22T03:00,4.5,3.8,278.0
+Bengaluru City Center,2026-08-22T04:00,4.5,3.6,262.0
+Bengaluru City Center,2026-08-22T05:00,5.5,4.1,221.0
+Bengaluru City Center,2026-08-22T06:00,7.4,4.9,192.0
+Bengaluru City Center,2026-08-22T07:00,7.8,5.0,187.0
+Bengaluru City Center,2026-08-22T08:00,8.4,5.2,193.0
+Bengaluru City Center,2026-08-22T09:00,8.9,5.5,207.0
+Bengaluru City Center,2026-08-22T10:00,9.9,5.9,232.0
+Bengaluru City Center,2026-08-22T11:00,11.1,6.4,266.0
+Bengaluru City Center,2026-08-22T12:00,12.1,8.6,292.0
+Bengaluru City Center,2026-08-22T13:00,12.1,9.2,307.0
+Bengaluru City Center,2026-08-22T14:00,12.0,9.5,315.0
+Bengaluru City Center,2026-08-22T15:00,10.8,8.9,316.0
+Bengaluru City Center,2026-08-22T16:00,8.8,7.4,309.0
+Bengaluru City Center,2026-08-22T17:00,7.4,6.3,294.0
+Bengaluru City Center,2026-08-22T18:00,6.4,5.4,271.0
+Bengaluru City Center,2026-08-22T19:00,5.4,4.5,233.0
+Bengaluru City Center,2026-08-22T20:00,4.7,3.9,186.0
+Bengaluru City Center,2026-08-22T21:00,4.3,3.5,153.0
+Bengaluru City Center,2026-08-22T22:00,3.8,3.1,142.0
+Bengaluru City Center,2026-08-22T23:00,3.4,2.8,143.0
+Bengaluru City Center,2026-08-23T00:00,3.4,2.7,151.0
+Bengaluru City Center,2026-08-23T01:00,3.5,3.0,168.0
+Bengaluru City Center,2026-08-23T02:00,4.0,3.3,192.0
+Bengaluru City Center,2026-08-23T03:00,5.2,3.6,205.0
+Bengaluru City Center,2026-08-23T04:00,6.8,4.3,197.0
+Bengaluru City Center,2026-08-23T05:00,8.1,5.0,179.0
+Bengaluru City Center,2026-08-23T06:00,9.6,5.5,165.0
+Bengaluru City Center,2026-08-23T07:00,9.4,5.2,156.0
+Bengaluru City Center,2026-08-23T08:00,9.2,5.0,152.0
+Bengaluru City Center,2026-08-23T09:00,8.8,4.9,165.0
+Bengaluru City Center,2026-08-23T10:00,9.5,5.0,212.0
+Bengaluru City Center,2026-08-23T11:00,11.4,5.7,277.0
+Bengaluru City Center,2026-08-23T12:00,12.0,7.9,320.0
+Bengaluru City Center,2026-08-23T13:00,11.3,7.9,323.0
+Bengaluru City Center,2026-08-23T14:00,11.4,8.9,305.0
+Bengaluru City Center,2026-08-23T15:00,11.5,9.2,280.0
+Bengaluru City Center,2026-08-23T16:00,9.7,8.0,249.0
+Bengaluru City Center,2026-08-23T17:00,8.2,6.9,212.0
+Bengaluru City Center,2026-08-23T18:00,6.7,5.6,181.0
+Bengaluru City Center,2026-08-23T19:00,5.2,4.4,161.0
+Bengaluru City Center,2026-08-23T20:00,4.4,3.5,147.0
+Bengaluru City Center,2026-08-23T21:00,3.6,2.9,137.0
+Bengaluru City Center,2026-08-23T22:00,3.3,2.6,130.0
+Bengaluru City Center,2026-08-23T23:00,3.3,2.5,127.0
+Bengaluru City Center,2026-08-24T00:00,3.5,2.6,125.8
+Bengaluru City Center,2026-08-24T01:00,4.1,3.2,133.5
+Bengaluru City Center,2026-08-24T02:00,5.2,4.1,156.0
+Bengaluru City Center,2026-08-24T03:00,5.6,3.9,181.0
+Bengaluru City Center,2026-08-24T04:00,6.6,4.2,177.0
+Bengaluru City Center,2026-08-24T05:00,9.2,5.3,165.0
+Bengaluru City Center,2026-08-24T06:00,8.8,5.1,154.0
+Bengaluru City Center,2026-08-24T07:00,9.9,5.4,147.0
+Bengaluru City Center,2026-08-24T08:00,10.9,5.6,142.0
+Bengaluru City Center,2026-08-24T09:00,12.2,6.0,147.0
+Bengaluru City Center,2026-08-24T10:00,10.7,7.0,173.0
+Bengaluru City Center,2026-08-24T11:00,9.6,6.5,209.0
+Bengaluru City Center,2026-08-24T12:00,8.5,6.3,235.0
+Bengaluru City Center,2026-08-24T13:00,,,
+Bengaluru City Center,2026-08-24T14:00,,,
+Bengaluru City Center,2026-08-24T15:00,,,
+Bengaluru City Center,2026-08-24T16:00,,,
+Bengaluru City Center,2026-08-24T17:00,,,
+Bengaluru City Center,2026-08-24T18:00,,,
+Bengaluru City Center,2026-08-24T19:00,,,
+Bengaluru City Center,2026-08-24T20:00,,,
+Bengaluru City Center,2026-08-24T21:00,,,
+Bengaluru City Center,2026-08-24T22:00,,,
+Bengaluru City Center,2026-08-24T23:00,,,
+Whitefield,2026-08-20T00:00,8.0,4.8,144.0
+Whitefield,2026-08-20T01:00,8.1,5.0,171.0
+Whitefield,2026-08-20T02:00,8.8,5.4,208.0
+Whitefield,2026-08-20T03:00,10.0,6.0,229.0
+Whitefield,2026-08-20T04:00,13.7,7.0,216.0
+Whitefield,2026-08-20T05:00,15.0,7.4,185.0
+Whitefield,2026-08-20T06:00,15.7,7.5,162.0
+Whitefield,2026-08-20T07:00,16.8,7.6,153.0
+Whitefield,2026-08-20T08:00,17.2,7.6,150.0
+Whitefield,2026-08-20T09:00,16.4,7.5,156.0
+Whitefield,2026-08-20T10:00,16.9,7.7,173.0
+Whitefield,2026-08-20T11:00,19.2,9.1,200.0
+Whitefield,2026-08-20T12:00,15.3,9.4,230.0
+Whitefield,2026-08-20T13:00,13.5,9.5,271.0
+Whitefield,2026-08-20T14:00,13.0,9.7,315.0
+Whitefield,2026-08-20T15:00,12.4,9.2,339.0
+Whitefield,2026-08-20T16:00,11.1,8.4,328.0
+Whitefield,2026-08-20T17:00,10.0,7.7,297.0
+Whitefield,2026-08-20T18:00,9.0,7.0,263.0
+Whitefield,2026-08-20T19:00,7.7,6.0,229.0
+Whitefield,2026-08-20T20:00,6.8,5.3,193.0
+Whitefield,2026-08-20T21:00,6.0,4.7,165.0
+Whitefield,2026-08-20T22:00,5.5,4.3,147.0
+Whitefield,2026-08-20T23:00,5.0,4.0,137.0
+Whitefield,2026-08-21T00:00,4.5,3.6,138.0
+Whitefield,2026-08-21T01:00,4.4,3.4,161.0
+Whitefield,2026-08-21T02:00,5.9,4.0,196.0
+Whitefield,2026-08-21T03:00,7.5,5.2,214.0
+Whitefield,2026-08-21T04:00,9.0,5.9,199.0
+Whitefield,2026-08-21T05:00,9.9,6.2,168.0
+Whitefield,2026-08-21T06:00,10.9,6.5,145.0
+Whitefield,2026-08-21T07:00,13.1,7.1,139.0
+Whitefield,2026-08-21T08:00,15.4,7.6,141.0
+Whitefield,2026-08-21T09:00,17.1,8.1,147.0
+Whitefield,2026-08-21T10:00,17.2,8.2,156.0
+Whitefield,2026-08-21T11:00,15.9,8.1,169.0
+Whitefield,2026-08-21T12:00,14.0,7.9,188.0
+Whitefield,2026-08-21T13:00,12.8,8.7,221.0
+Whitefield,2026-08-21T14:00,12.7,9.3,260.0
+Whitefield,2026-08-21T15:00,11.6,8.9,281.0
+Whitefield,2026-08-21T16:00,10.7,8.3,272.0
+Whitefield,2026-08-21T17:00,10.2,8.0,246.0
+Whitefield,2026-08-21T18:00,8.6,6.8,219.0
+Whitefield,2026-08-21T19:00,7.1,5.7,196.0
+Whitefield,2026-08-21T20:00,5.7,4.7,172.0
+Whitefield,2026-08-21T21:00,4.5,3.8,153.0
+Whitefield,2026-08-21T22:00,3.9,3.3,138.0
+Whitefield,2026-08-21T23:00,3.9,3.1,127.0
+Whitefield,2026-08-22T00:00,4.2,3.3,128.0
+Whitefield,2026-08-22T01:00,4.8,3.8,151.0
+Whitefield,2026-08-22T02:00,5.1,4.2,186.0
+Whitefield,2026-08-22T03:00,4.5,3.8,206.0
+Whitefield,2026-08-22T04:00,4.5,3.6,194.0
+Whitefield,2026-08-22T05:00,5.5,4.1,166.0
+Whitefield,2026-08-22T06:00,7.4,4.9,146.0
+Whitefield,2026-08-22T07:00,7.8,5.0,142.0
+Whitefield,2026-08-22T08:00,8.4,5.2,146.0
+Whitefield,2026-08-22T09:00,8.9,5.5,154.0
+Whitefield,2026-08-22T10:00,9.9,5.9,164.0
+Whitefield,2026-08-22T11:00,11.1,6.4,179.0
+Whitefield,2026-08-22T12:00,12.1,8.6,201.0
+Whitefield,2026-08-22T13:00,12.1,9.2,240.0
+Whitefield,2026-08-22T14:00,12.0,9.5,286.0
+Whitefield,2026-08-22T15:00,10.8,8.9,310.0
+Whitefield,2026-08-22T16:00,8.8,7.4,297.0
+Whitefield,2026-08-22T17:00,7.4,6.3,262.0
+Whitefield,2026-08-22T18:00,6.4,5.4,228.0
+Whitefield,2026-08-22T19:00,5.4,4.5,198.0
+Whitefield,2026-08-22T20:00,4.7,3.9,168.0
+Whitefield,2026-08-22T21:00,4.3,3.5,147.0
+Whitefield,2026-08-22T22:00,3.8,3.1,139.0
+Whitefield,2026-08-22T23:00,3.4,2.8,139.0
+Whitefield,2026-08-23T00:00,3.4,2.7,142.0
+Whitefield,2026-08-23T01:00,3.5,3.0,150.0
+Whitefield,2026-08-23T02:00,4.0,3.3,162.0
+Whitefield,2026-08-23T03:00,5.2,3.6,167.0
+Whitefield,2026-08-23T04:00,6.8,4.3,158.0
+Whitefield,2026-08-23T05:00,8.1,5.0,142.0
+Whitefield,2026-08-23T06:00,9.6,5.5,131.0
+Whitefield,2026-08-23T07:00,9.4,5.2,128.0
+Whitefield,2026-08-23T08:00,9.2,5.0,131.0
+Whitefield,2026-08-23T09:00,8.8,4.9,137.0
+Whitefield,2026-08-23T10:00,9.5,5.0,146.0
+Whitefield,2026-08-23T11:00,11.4,5.7,160.0
+Whitefield,2026-08-23T12:00,12.0,7.9,181.0
+Whitefield,2026-08-23T13:00,11.3,7.9,222.0
+Whitefield,2026-08-23T14:00,11.4,8.9,272.0
+Whitefield,2026-08-23T15:00,11.5,9.2,295.0
+Whitefield,2026-08-23T16:00,9.7,8.0,270.0
+Whitefield,2026-08-23T17:00,8.2,6.9,219.0
+Whitefield,2026-08-23T18:00,6.7,5.6,176.0
+Whitefield,2026-08-23T19:00,5.2,4.4,155.0
+Whitefield,2026-08-23T20:00,4.4,3.5,144.0
+Whitefield,2026-08-23T21:00,3.6,2.9,134.0
+Whitefield,2026-08-23T22:00,3.3,2.6,124.0
+Whitefield,2026-08-23T23:00,3.3,2.5,117.0
+Whitefield,2026-08-24T00:00,3.5,2.6,116.8
+Whitefield,2026-08-24T01:00,4.1,3.2,127.5
+Whitefield,2026-08-24T02:00,5.2,4.1,152.8
+Whitefield,2026-08-24T03:00,5.6,3.9,181.0
+Whitefield,2026-08-24T04:00,6.6,4.2,177.0
+Whitefield,2026-08-24T05:00,9.2,5.3,165.0
+Whitefield,2026-08-24T06:00,8.8,5.1,154.0
+Whitefield,2026-08-24T07:00,9.9,5.4,147.0
+Whitefield,2026-08-24T08:00,10.9,5.6,142.0
+Whitefield,2026-08-24T09:00,12.2,6.0,147.0
+Whitefield,2026-08-24T10:00,10.7,7.0,173.0
+Whitefield,2026-08-24T11:00,9.6,6.5,209.0
+Whitefield,2026-08-24T12:00,8.5,6.3,235.0
+Whitefield,2026-08-24T13:00,,,
+Whitefield,2026-08-24T14:00,,,
+Whitefield,2026-08-24T15:00,,,
+Whitefield,2026-08-24T16:00,,,
+Whitefield,2026-08-24T17:00,,,
+Whitefield,2026-08-24T18:00,,,
+Whitefield,2026-08-24T19:00,,,
+Whitefield,2026-08-24T20:00,,,
+Whitefield,2026-08-24T21:00,,,
+Whitefield,2026-08-24T22:00,,,
+Whitefield,2026-08-24T23:00,,,
+Electronic City,2026-08-20T00:00,8.0,4.8,131.0
+Electronic City,2026-08-20T01:00,8.1,5.0,140.0
+Electronic City,2026-08-20T02:00,8.8,5.4,153.0
+Electronic City,2026-08-20T03:00,10.0,6.0,159.0
+Electronic City,2026-08-20T04:00,13.7,7.0,151.0
+Electronic City,2026-08-20T05:00,15.0,7.4,137.0
+Electronic City,2026-08-20T06:00,15.7,7.5,127.0
+Electronic City,2026-08-20T07:00,16.8,7.6,125.0
+Electronic City,2026-08-20T08:00,17.2,7.6,127.0
+Electronic City,2026-08-20T09:00,16.4,7.5,133.0
+Electronic City,2026-08-20T10:00,16.9,7.7,144.0
+Electronic City,2026-08-20T11:00,19.2,9.1,159.0
+Electronic City,2026-08-20T12:00,15.3,9.4,169.0
+Electronic City,2026-08-20T13:00,13.5,9.5,171.0
+Electronic City,2026-08-20T14:00,13.0,9.7,169.0
+Electronic City,2026-08-20T15:00,12.4,9.2,166.0
+Electronic City,2026-08-20T16:00,11.1,8.4,163.0
+Electronic City,2026-08-20T17:00,10.0,7.7,159.0
+Electronic City,2026-08-20T18:00,9.0,7.0,153.0
+Electronic City,2026-08-20T19:00,7.7,6.0,143.0
+Electronic City,2026-08-20T20:00,6.8,5.3,132.0
+Electronic City,2026-08-20T21:00,6.0,4.7,122.0
+Electronic City,2026-08-20T22:00,5.5,4.3,115.0
+Electronic City,2026-08-20T23:00,5.0,4.0,109.0
+Electronic City,2026-08-21T00:00,4.5,3.6,108.0
+Electronic City,2026-08-21T01:00,4.4,3.4,115.0
+Electronic City,2026-08-21T02:00,5.9,4.0,127.0
+Electronic City,2026-08-21T03:00,7.5,5.2,134.0
+Electronic City,2026-08-21T04:00,9.0,5.9,132.0
+Electronic City,2026-08-21T05:00,9.9,6.2,127.0
+Electronic City,2026-08-21T06:00,10.9,6.5,123.0
+Electronic City,2026-08-21T07:00,13.1,7.1,123.0
+Electronic City,2026-08-21T08:00,15.4,7.6,124.0
+Electronic City,2026-08-21T09:00,17.1,8.1,128.0
+Electronic City,2026-08-21T10:00,17.2,8.2,135.0
+Electronic City,2026-08-21T11:00,15.9,8.1,143.0
+Electronic City,2026-08-21T12:00,14.0,7.9,150.0
+Electronic City,2026-08-21T13:00,12.8,8.7,154.0
+Electronic City,2026-08-21T14:00,12.7,9.3,156.0
+Electronic City,2026-08-21T15:00,11.6,8.9,157.0
+Electronic City,2026-08-21T16:00,10.7,8.3,157.0
+Electronic City,2026-08-21T17:00,10.2,8.0,155.0
+Electronic City,2026-08-21T18:00,8.6,6.8,152.0
+Electronic City,2026-08-21T19:00,7.1,5.7,146.0
+Electronic City,2026-08-21T20:00,5.7,4.7,138.0
+Electronic City,2026-08-21T21:00,4.5,3.8,132.0
+Electronic City,2026-08-21T22:00,3.9,3.3,130.0
+Electronic City,2026-08-21T23:00,3.9,3.1,129.0
+Electronic City,2026-08-22T00:00,4.2,3.3,130.0
+Electronic City,2026-08-22T01:00,4.8,3.8,133.0
+Electronic City,2026-08-22T02:00,5.1,4.2,137.0
+Electronic City,2026-08-22T03:00,4.5,3.8,139.0
+Electronic City,2026-08-22T04:00,4.5,3.6,135.0
+Electronic City,2026-08-22T05:00,5.5,4.1,128.0
+Electronic City,2026-08-22T06:00,7.4,4.9,123.0
+Electronic City,2026-08-22T07:00,7.8,5.0,121.0
+Electronic City,2026-08-22T08:00,8.4,5.2,121.0
+Electronic City,2026-08-22T09:00,8.9,5.5,124.0
+Electronic City,2026-08-22T10:00,9.9,5.9,132.0
+Electronic City,2026-08-22T11:00,11.1,6.4,144.0
+Electronic City,2026-08-22T12:00,12.1,8.6,155.0
+Electronic City,2026-08-22T13:00,12.1,9.2,165.0
+Electronic City,2026-08-22T14:00,12.0,9.5,175.0
+Electronic City,2026-08-22T15:00,10.8,8.9,178.0
+Electronic City,2026-08-22T16:00,8.8,7.4,170.0
+Electronic City,2026-08-22T17:00,7.4,6.3,155.0
+Electronic City,2026-08-22T18:00,6.4,5.4,143.0
+Electronic City,2026-08-22T19:00,5.4,4.5,137.0
+Electronic City,2026-08-22T20:00,4.7,3.9,134.0
+Electronic City,2026-08-22T21:00,4.3,3.5,131.0
+Electronic City,2026-08-22T22:00,3.8,3.1,126.0
+Electronic City,2026-08-22T23:00,3.4,2.8,121.0
+Electronic City,2026-08-23T00:00,3.4,2.7,119.0
+Electronic City,2026-08-23T01:00,3.5,3.0,123.0
+Electronic City,2026-08-23T02:00,4.0,3.3,130.0
+Electronic City,2026-08-23T03:00,5.2,3.6,133.0
+Electronic City,2026-08-23T04:00,6.8,4.3,128.0
+Electronic City,2026-08-23T05:00,8.1,5.0,120.0
+Electronic City,2026-08-23T06:00,9.6,5.5,113.0
+Electronic City,2026-08-23T07:00,9.4,5.2,108.0
+Electronic City,2026-08-23T08:00,9.2,5.0,105.0
+Electronic City,2026-08-23T09:00,8.8,4.9,108.0
+Electronic City,2026-08-23T10:00,9.5,5.0,123.0
+Electronic City,2026-08-23T11:00,11.4,5.7,143.0
+Electronic City,2026-08-23T12:00,12.0,7.9,158.0
+Electronic City,2026-08-23T13:00,11.3,7.9,162.0
+Electronic City,2026-08-23T14:00,11.4,8.9,159.0
+Electronic City,2026-08-23T15:00,11.5,9.2,154.0
+Electronic City,2026-08-23T16:00,9.7,8.0,146.0
+Electronic City,2026-08-23T17:00,8.2,6.9,135.0
+Electronic City,2026-08-23T18:00,6.7,5.6,125.0
+Electronic City,2026-08-23T19:00,5.2,4.4,118.0
+Electronic City,2026-08-23T20:00,4.4,3.5,112.0
+Electronic City,2026-08-23T21:00,3.6,2.9,109.0
+Electronic City,2026-08-23T22:00,3.3,2.6,112.0
+Electronic City,2026-08-23T23:00,3.3,2.5,119.0
+Electronic City,2026-08-24T00:00,3.5,2.6,123.5
+Electronic City,2026-08-24T01:00,4.1,3.2,133.0
+Electronic City,2026-08-24T02:00,5.2,4.1,155.5
+Electronic City,2026-08-24T03:00,5.6,3.9,181.0
+Electronic City,2026-08-24T04:00,6.6,4.2,177.0
+Electronic City,2026-08-24T05:00,9.2,5.3,165.0
+Electronic City,2026-08-24T06:00,8.8,5.1,154.0
+Electronic City,2026-08-24T07:00,9.9,5.4,147.0
+Electronic City,2026-08-24T08:00,10.9,5.6,142.0
+Electronic City,2026-08-24T09:00,12.2,6.0,147.0
+Electronic City,2026-08-24T10:00,10.7,7.0,173.0
+Electronic City,2026-08-24T11:00,9.6,6.5,209.0
+Electronic City,2026-08-24T12:00,8.5,6.3,235.0
+Electronic City,2026-08-24T13:00,,,
+Electronic City,2026-08-24T14:00,,,
+Electronic City,2026-08-24T15:00,,,
+Electronic City,2026-08-24T16:00,,,
+Electronic City,2026-08-24T17:00,,,
+Electronic City,2026-08-24T18:00,,,
+Electronic City,2026-08-24T19:00,,,
+Electronic City,2026-08-24T20:00,,,
+Electronic City,2026-08-24T21:00,,,
+Electronic City,2026-08-24T22:00,,,
+Electronic City,2026-08-24T23:00,,,
+Yeshwanthpur,2026-08-20T00:00,9.9,5.1,182.0
+Yeshwanthpur,2026-08-20T01:00,10.4,5.3,231.0
+Yeshwanthpur,2026-08-20T02:00,10.8,5.5,294.0
+Yeshwanthpur,2026-08-20T03:00,12.0,6.3,328.0
+Yeshwanthpur,2026-08-20T04:00,13.9,6.9,305.0
+Yeshwanthpur,2026-08-20T05:00,15.6,7.3,253.0
+Yeshwanthpur,2026-08-20T06:00,16.2,7.2,214.0
+Yeshwanthpur,2026-08-20T07:00,19.7,7.8,205.0
+Yeshwanthpur,2026-08-20T08:00,22.2,8.4,209.0
+Yeshwanthpur,2026-08-20T09:00,19.9,7.9,222.0
+Yeshwanthpur,2026-08-20T10:00,16.9,7.3,246.0
+Yeshwanthpur,2026-08-20T11:00,13.6,6.5,279.0
+Yeshwanthpur,2026-08-20T12:00,12.0,7.2,308.0
+Yeshwanthpur,2026-08-20T13:00,12.1,8.3,330.0
+Yeshwanthpur,2026-08-20T14:00,12.5,9.5,348.0
+Yeshwanthpur,2026-08-20T15:00,11.8,8.8,357.0
+Yeshwanthpur,2026-08-20T16:00,11.0,8.2,359.0
+Yeshwanthpur,2026-08-20T17:00,10.2,7.7,352.0
+Yeshwanthpur,2026-08-20T18:00,9.3,7.0,329.0
+Yeshwanthpur,2026-08-20T19:00,7.3,5.5,277.0
+Yeshwanthpur,2026-08-20T20:00,6.1,4.7,210.0
+Yeshwanthpur,2026-08-20T21:00,5.3,4.1,161.0
+Yeshwanthpur,2026-08-20T22:00,4.7,3.7,141.0
+Yeshwanthpur,2026-08-20T23:00,4.7,3.6,138.0
+Yeshwanthpur,2026-08-21T00:00,4.0,2.9,154.0
+Yeshwanthpur,2026-08-21T01:00,4.8,3.1,205.0
+Yeshwanthpur,2026-08-21T02:00,5.7,3.7,275.0
+Yeshwanthpur,2026-08-21T03:00,7.6,4.9,314.0
+Yeshwanthpur,2026-08-21T04:00,8.3,5.4,289.0
+Yeshwanthpur,2026-08-21T05:00,9.0,5.5,234.0
+Yeshwanthpur,2026-08-21T06:00,10.8,6.0,193.0
+Yeshwanthpur,2026-08-21T07:00,13.5,6.8,185.0
+Yeshwanthpur,2026-08-21T08:00,19.6,8.6,192.0
+Yeshwanthpur,2026-08-21T09:00,23.5,9.8,208.0
+Yeshwanthpur,2026-08-21T10:00,23.3,10.1,235.0
+Yeshwanthpur,2026-08-21T11:00,21.7,9.8,270.0
+Yeshwanthpur,2026-08-21T12:00,17.7,8.7,300.0
+Yeshwanthpur,2026-08-21T13:00,13.8,8.3,322.0
+Yeshwanthpur,2026-08-21T14:00,13.1,9.3,339.0
+Yeshwanthpur,2026-08-21T15:00,12.1,9.2,342.0
+Yeshwanthpur,2026-08-21T16:00,11.2,8.8,324.0
+Yeshwanthpur,2026-08-21T17:00,10.6,8.4,291.0
+Yeshwanthpur,2026-08-21T18:00,9.7,7.7,256.0
+Yeshwanthpur,2026-08-21T19:00,7.6,6.1,218.0
+Yeshwanthpur,2026-08-21T20:00,6.2,5.0,178.0
+Yeshwanthpur,2026-08-21T21:00,5.2,4.2,149.0
+Yeshwanthpur,2026-08-21T22:00,4.6,3.7,135.0
+Yeshwanthpur,2026-08-21T23:00,4.4,3.5,132.0
+Yeshwanthpur,2026-08-22T00:00,4.5,3.5,144.0
+Yeshwanthpur,2026-08-22T01:00,4.7,3.9,187.0
+Yeshwanthpur,2026-08-22T02:00,4.6,3.9,244.0
+Yeshwanthpur,2026-08-22T03:00,4.1,3.4,278.0
+Yeshwanthpur,2026-08-22T04:00,4.4,3.3,262.0
+Yeshwanthpur,2026-08-22T05:00,7.8,4.8,221.0
+Yeshwanthpur,2026-08-22T06:00,5.9,3.9,192.0
+Yeshwanthpur,2026-08-22T07:00,6.4,4.0,187.0
+Yeshwanthpur,2026-08-22T08:00,6.9,4.3,193.0
+Yeshwanthpur,2026-08-22T09:00,7.5,4.6,207.0
+Yeshwanthpur,2026-08-22T10:00,8.8,5.1,232.0
+Yeshwanthpur,2026-08-22T11:00,11.7,6.4,266.0
+Yeshwanthpur,2026-08-22T12:00,10.6,6.7,292.0
+Yeshwanthpur,2026-08-22T13:00,10.8,7.3,307.0
+Yeshwanthpur,2026-08-22T14:00,10.7,7.9,315.0
+Yeshwanthpur,2026-08-22T15:00,10.1,7.9,316.0
+Yeshwanthpur,2026-08-22T16:00,9.3,7.3,309.0
+Yeshwanthpur,2026-08-22T17:00,8.2,6.5,294.0
+Yeshwanthpur,2026-08-22T18:00,6.7,5.4,271.0
+Yeshwanthpur,2026-08-22T19:00,5.1,4.1,233.0
+Yeshwanthpur,2026-08-22T20:00,4.4,3.5,186.0
+Yeshwanthpur,2026-08-22T21:00,4.0,3.2,153.0
+Yeshwanthpur,2026-08-22T22:00,4.5,3.3,142.0
+Yeshwanthpur,2026-08-22T23:00,3.7,2.9,143.0
+Yeshwanthpur,2026-08-23T00:00,3.6,2.9,151.0
+Yeshwanthpur,2026-08-23T01:00,3.9,3.4,168.0
+Yeshwanthpur,2026-08-23T02:00,4.4,3.1,192.0
+Yeshwanthpur,2026-08-23T03:00,5.3,3.4,205.0
+Yeshwanthpur,2026-08-23T04:00,6.4,3.7,197.0
+Yeshwanthpur,2026-08-23T05:00,7.8,4.4,179.0
+Yeshwanthpur,2026-08-23T06:00,15.3,6.3,165.0
+Yeshwanthpur,2026-08-23T07:00,8.9,4.7,156.0
+Yeshwanthpur,2026-08-23T08:00,9.1,4.7,152.0
+Yeshwanthpur,2026-08-23T09:00,9.1,4.7,165.0
+Yeshwanthpur,2026-08-23T10:00,13.4,6.2,212.0
+Yeshwanthpur,2026-08-23T11:00,12.3,5.9,277.0
+Yeshwanthpur,2026-08-23T12:00,11.0,6.5,320.0
+Yeshwanthpur,2026-08-23T13:00,9.8,6.7,323.0
+Yeshwanthpur,2026-08-23T14:00,10.2,7.8,305.0
+Yeshwanthpur,2026-08-23T15:00,10.3,8.1,280.0
+Yeshwanthpur,2026-08-23T16:00,9.3,7.5,249.0
+Yeshwanthpur,2026-08-23T17:00,8.1,6.6,212.0
+Yeshwanthpur,2026-08-23T18:00,6.9,5.6,181.0
+Yeshwanthpur,2026-08-23T19:00,5.7,4.5,161.0
+Yeshwanthpur,2026-08-23T20:00,4.9,3.8,147.0
+Yeshwanthpur,2026-08-23T21:00,4.1,3.1,137.0
+Yeshwanthpur,2026-08-23T22:00,3.5,2.8,130.0
+Yeshwanthpur,2026-08-23T23:00,3.2,2.3,127.0
+Yeshwanthpur,2026-08-24T00:00,2.9,2.2,124.5
+Yeshwanthpur,2026-08-24T01:00,3.7,3.0,126.5
+Yeshwanthpur,2026-08-24T02:00,4.7,3.2,136.5
+Yeshwanthpur,2026-08-24T03:00,6.4,3.7,147.0
+Yeshwanthpur,2026-08-24T04:00,7.5,4.1,146.0
+Yeshwanthpur,2026-08-24T05:00,9.7,4.9,141.0
+Yeshwanthpur,2026-08-24T06:00,10.5,5.4,136.0
+Yeshwanthpur,2026-08-24T07:00,10.7,5.3,131.0
+Yeshwanthpur,2026-08-24T08:00,11.0,5.3,127.0
+Yeshwanthpur,2026-08-24T09:00,16.8,7.3,131.0
+Yeshwanthpur,2026-08-24T10:00,11.9,6.2,152.0
+Yeshwanthpur,2026-08-24T11:00,11.2,6.7,181.0
+Yeshwanthpur,2026-08-24T12:00,10.9,7.2,203.0
+Yeshwanthpur,2026-08-24T13:00,,,
+Yeshwanthpur,2026-08-24T14:00,,,
+Yeshwanthpur,2026-08-24T15:00,,,
+Yeshwanthpur,2026-08-24T16:00,,,
+Yeshwanthpur,2026-08-24T17:00,,,
+Yeshwanthpur,2026-08-24T18:00,,,
+Yeshwanthpur,2026-08-24T19:00,,,
+Yeshwanthpur,2026-08-24T20:00,,,
+Yeshwanthpur,2026-08-24T21:00,,,
+Yeshwanthpur,2026-08-24T22:00,,,
+Yeshwanthpur,2026-08-24T23:00,,,
+Koramangala,2026-08-20T00:00,8.0,4.8,161.0
+Koramangala,2026-08-20T01:00,8.1,5.0,207.0
+Koramangala,2026-08-20T02:00,8.8,5.4,269.0
+Koramangala,2026-08-20T03:00,10.0,6.0,302.0
+Koramangala,2026-08-20T04:00,13.7,7.0,280.0
+Koramangala,2026-08-20T05:00,15.0,7.4,229.0
+Koramangala,2026-08-20T06:00,15.7,7.5,193.0
+Koramangala,2026-08-20T07:00,16.8,7.6,185.0
+Koramangala,2026-08-20T08:00,17.2,7.6,190.0
+Koramangala,2026-08-20T09:00,16.4,7.5,208.0
+Koramangala,2026-08-20T10:00,16.9,7.7,248.0
+Koramangala,2026-08-20T11:00,19.2,9.1,300.0
+Koramangala,2026-08-20T12:00,15.3,9.4,335.0
+Koramangala,2026-08-20T13:00,13.5,9.5,340.0
+Koramangala,2026-08-20T14:00,13.0,9.7,328.0
+Koramangala,2026-08-20T15:00,12.4,9.2,312.0
+Koramangala,2026-08-20T16:00,11.1,8.4,298.0
+Koramangala,2026-08-20T17:00,10.0,7.7,280.0
+Koramangala,2026-08-20T18:00,9.0,7.0,256.0
+Koramangala,2026-08-20T19:00,7.7,6.0,218.0
+Koramangala,2026-08-20T20:00,6.8,5.3,174.0
+Koramangala,2026-08-20T21:00,6.0,4.7,142.0
+Koramangala,2026-08-20T22:00,5.5,4.3,127.0
+Koramangala,2026-08-20T23:00,5.0,4.0,124.0
+Koramangala,2026-08-21T00:00,4.5,3.6,136.0
+Koramangala,2026-08-21T01:00,4.4,3.4,178.0
+Koramangala,2026-08-21T02:00,5.9,4.0,236.0
+Koramangala,2026-08-21T03:00,7.5,5.2,269.0
+Koramangala,2026-08-21T04:00,9.0,5.9,251.0
+Koramangala,2026-08-21T05:00,9.9,6.2,208.0
+Koramangala,2026-08-21T06:00,10.9,6.5,177.0
+Koramangala,2026-08-21T07:00,13.1,7.1,171.0
+Koramangala,2026-08-21T08:00,15.4,7.6,178.0
+Koramangala,2026-08-21T09:00,17.1,8.1,194.0
+Koramangala,2026-08-21T10:00,17.2,8.2,226.0
+Koramangala,2026-08-21T11:00,15.9,8.1,267.0
+Koramangala,2026-08-21T12:00,14.0,7.9,296.0
+Koramangala,2026-08-21T13:00,12.8,8.7,304.0
+Koramangala,2026-08-21T14:00,12.7,9.3,299.0
+Koramangala,2026-08-21T15:00,11.6,8.9,288.0
+Koramangala,2026-08-21T16:00,10.7,8.3,272.0
+Koramangala,2026-08-21T17:00,10.2,8.0,250.0
+Koramangala,2026-08-21T18:00,8.6,6.8,225.0
+Koramangala,2026-08-21T19:00,7.1,5.7,194.0
+Koramangala,2026-08-21T20:00,5.7,4.7,160.0
+Koramangala,2026-08-21T21:00,4.5,3.8,136.0
+Koramangala,2026-08-21T22:00,3.9,3.3,125.0
+Koramangala,2026-08-21T23:00,3.9,3.1,124.0
+Koramangala,2026-08-22T00:00,4.2,3.3,135.0
+Koramangala,2026-08-22T01:00,4.8,3.8,170.0
+Koramangala,2026-08-22T02:00,5.1,4.2,217.0
+Koramangala,2026-08-22T03:00,4.5,3.8,244.0
+Koramangala,2026-08-22T04:00,4.5,3.6,231.0
+Koramangala,2026-08-22T05:00,5.5,4.1,199.0
+Koramangala,2026-08-22T06:00,7.4,4.9,176.0
+Koramangala,2026-08-22T07:00,7.8,5.0,171.0
+Koramangala,2026-08-22T08:00,8.4,5.2,175.0
+Koramangala,2026-08-22T09:00,8.9,5.5,188.0
+Koramangala,2026-08-22T10:00,9.9,5.9,216.0
+Koramangala,2026-08-22T11:00,11.1,6.4,252.0
+Koramangala,2026-08-22T12:00,12.1,8.6,283.0
+Koramangala,2026-08-22T13:00,12.1,9.2,305.0
+Koramangala,2026-08-22T14:00,12.0,9.5,321.0
+Koramangala,2026-08-22T15:00,10.8,8.9,324.0
+Koramangala,2026-08-22T16:00,8.8,7.4,307.0
+Koramangala,2026-08-22T17:00,7.4,6.3,276.0
+Koramangala,2026-08-22T18:00,6.4,5.4,242.0
+Koramangala,2026-08-22T19:00,5.4,4.5,205.0
+Koramangala,2026-08-22T20:00,4.7,3.9,166.0
+Koramangala,2026-08-22T21:00,4.3,3.5,138.0
+Koramangala,2026-08-22T22:00,3.8,3.1,126.0
+Koramangala,2026-08-22T23:00,3.4,2.8,125.0
+Koramangala,2026-08-23T00:00,3.4,2.7,131.0
+Koramangala,2026-08-23T01:00,3.5,3.0,150.0
+Koramangala,2026-08-23T02:00,4.0,3.3,175.0
+Koramangala,2026-08-23T03:00,5.2,3.6,190.0
+Koramangala,2026-08-23T04:00,6.8,4.3,182.0
+Koramangala,2026-08-23T05:00,8.1,5.0,162.0
+Koramangala,2026-08-23T06:00,9.6,5.5,147.0
+Koramangala,2026-08-23T07:00,9.4,5.2,138.0
+Koramangala,2026-08-23T08:00,9.2,5.0,133.0
+Koramangala,2026-08-23T09:00,8.8,4.9,147.0
+Koramangala,2026-08-23T10:00,9.5,5.0,196.0
+Koramangala,2026-08-23T11:00,11.4,5.7,263.0
+Koramangala,2026-08-23T12:00,12.0,7.9,309.0
+Koramangala,2026-08-23T13:00,11.3,7.9,316.0
+Koramangala,2026-08-23T14:00,11.4,8.9,302.0
+Koramangala,2026-08-23T15:00,11.5,9.2,279.0
+Koramangala,2026-08-23T16:00,9.7,8.0,247.0
+Koramangala,2026-08-23T17:00,8.2,6.9,205.0
+Koramangala,2026-08-23T18:00,6.7,5.6,170.0
+Koramangala,2026-08-23T19:00,5.2,4.4,145.0
+Koramangala,2026-08-23T20:00,4.4,3.5,125.0
+Koramangala,2026-08-23T21:00,3.6,2.9,113.0
+Koramangala,2026-08-23T22:00,3.3,2.6,112.0
+Koramangala,2026-08-23T23:00,3.3,2.5,119.0
+Koramangala,2026-08-24T00:00,3.5,2.6,123.5
+Koramangala,2026-08-24T01:00,4.1,3.2,133.0
+Koramangala,2026-08-24T02:00,5.2,4.1,155.3
+Koramangala,2026-08-24T03:00,5.6,3.9,181.0
+Koramangala,2026-08-24T04:00,6.6,4.2,177.0
+Koramangala,2026-08-24T05:00,9.2,5.3,165.0
+Koramangala,2026-08-24T06:00,8.8,5.1,154.0
+Koramangala,2026-08-24T07:00,9.9,5.4,147.0
+Koramangala,2026-08-24T08:00,10.9,5.6,142.0
+Koramangala,2026-08-24T09:00,12.2,6.0,147.0
+Koramangala,2026-08-24T10:00,10.7,7.0,173.0
+Koramangala,2026-08-24T11:00,9.6,6.5,209.0
+Koramangala,2026-08-24T12:00,8.5,6.3,235.0
+Koramangala,2026-08-24T13:00,,,
+Koramangala,2026-08-24T14:00,,,
+Koramangala,2026-08-24T15:00,,,
+Koramangala,2026-08-24T16:00,,,
+Koramangala,2026-08-24T17:00,,,
+Koramangala,2026-08-24T18:00,,,
+Koramangala,2026-08-24T19:00,,,
+Koramangala,2026-08-24T20:00,,,
+Koramangala,2026-08-24T21:00,,,
+Koramangala,2026-08-24T22:00,,,
+Koramangala,2026-08-24T23:00,,,

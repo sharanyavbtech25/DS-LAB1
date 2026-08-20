@@ -1,0 +1,841 @@
+location,time,temperature_C,humidity_percent
+Bengaluru City Center,2026-08-20T00:00,20.9,94
+Bengaluru City Center,2026-08-20T01:00,20.9,93
+Bengaluru City Center,2026-08-20T02:00,21.6,89
+Bengaluru City Center,2026-08-20T03:00,23.2,81
+Bengaluru City Center,2026-08-20T04:00,24.8,73
+Bengaluru City Center,2026-08-20T05:00,25.1,72
+Bengaluru City Center,2026-08-20T06:00,25.7,67
+Bengaluru City Center,2026-08-20T07:00,27.7,61
+Bengaluru City Center,2026-08-20T08:00,27.8,58
+Bengaluru City Center,2026-08-20T09:00,26.4,64
+Bengaluru City Center,2026-08-20T10:00,25.9,67
+Bengaluru City Center,2026-08-20T11:00,24.6,80
+Bengaluru City Center,2026-08-20T12:00,24.0,79
+Bengaluru City Center,2026-08-20T13:00,22.9,86
+Bengaluru City Center,2026-08-20T14:00,22.5,88
+Bengaluru City Center,2026-08-20T15:00,21.8,91
+Bengaluru City Center,2026-08-20T16:00,21.7,91
+Bengaluru City Center,2026-08-20T17:00,21.3,90
+Bengaluru City Center,2026-08-20T18:00,20.8,91
+Bengaluru City Center,2026-08-20T19:00,20.4,92
+Bengaluru City Center,2026-08-20T20:00,20.1,93
+Bengaluru City Center,2026-08-20T21:00,19.9,93
+Bengaluru City Center,2026-08-20T22:00,19.8,95
+Bengaluru City Center,2026-08-20T23:00,20.1,93
+Bengaluru City Center,2026-08-21T00:00,20.3,92
+Bengaluru City Center,2026-08-21T01:00,20.5,91
+Bengaluru City Center,2026-08-21T02:00,21.2,87
+Bengaluru City Center,2026-08-21T03:00,22.7,77
+Bengaluru City Center,2026-08-21T04:00,23.9,71
+Bengaluru City Center,2026-08-21T05:00,25.1,65
+Bengaluru City Center,2026-08-21T06:00,26.0,61
+Bengaluru City Center,2026-08-21T07:00,27.5,56
+Bengaluru City Center,2026-08-21T08:00,28.3,53
+Bengaluru City Center,2026-08-21T09:00,28.5,52
+Bengaluru City Center,2026-08-21T10:00,28.5,52
+Bengaluru City Center,2026-08-21T11:00,27.5,55
+Bengaluru City Center,2026-08-21T12:00,26.7,56
+Bengaluru City Center,2026-08-21T13:00,24.8,66
+Bengaluru City Center,2026-08-21T14:00,23.5,73
+Bengaluru City Center,2026-08-21T15:00,22.8,73
+Bengaluru City Center,2026-08-21T16:00,21.8,77
+Bengaluru City Center,2026-08-21T17:00,21.0,81
+Bengaluru City Center,2026-08-21T18:00,20.4,87
+Bengaluru City Center,2026-08-21T19:00,20.0,90
+Bengaluru City Center,2026-08-21T20:00,19.7,92
+Bengaluru City Center,2026-08-21T21:00,19.7,92
+Bengaluru City Center,2026-08-21T22:00,19.6,92
+Bengaluru City Center,2026-08-21T23:00,19.8,91
+Bengaluru City Center,2026-08-22T00:00,20.4,88
+Bengaluru City Center,2026-08-22T01:00,20.6,88
+Bengaluru City Center,2026-08-22T02:00,20.9,88
+Bengaluru City Center,2026-08-22T03:00,22.6,78
+Bengaluru City Center,2026-08-22T04:00,23.7,71
+Bengaluru City Center,2026-08-22T05:00,24.2,69
+Bengaluru City Center,2026-08-22T06:00,25.9,62
+Bengaluru City Center,2026-08-22T07:00,27.6,54
+Bengaluru City Center,2026-08-22T08:00,28.0,53
+Bengaluru City Center,2026-08-22T09:00,26.1,61
+Bengaluru City Center,2026-08-22T10:00,26.6,65
+Bengaluru City Center,2026-08-22T11:00,27.7,59
+Bengaluru City Center,2026-08-22T12:00,25.5,70
+Bengaluru City Center,2026-08-22T13:00,25.1,71
+Bengaluru City Center,2026-08-22T14:00,24.0,74
+Bengaluru City Center,2026-08-22T15:00,23.2,78
+Bengaluru City Center,2026-08-22T16:00,22.3,82
+Bengaluru City Center,2026-08-22T17:00,21.5,86
+Bengaluru City Center,2026-08-22T18:00,20.9,89
+Bengaluru City Center,2026-08-22T19:00,20.4,91
+Bengaluru City Center,2026-08-22T20:00,20.1,93
+Bengaluru City Center,2026-08-22T21:00,19.8,94
+Bengaluru City Center,2026-08-22T22:00,19.8,93
+Bengaluru City Center,2026-08-22T23:00,20.0,92
+Bengaluru City Center,2026-08-23T00:00,20.2,90
+Bengaluru City Center,2026-08-23T01:00,20.4,89
+Bengaluru City Center,2026-08-23T02:00,21.2,85
+Bengaluru City Center,2026-08-23T03:00,23.2,73
+Bengaluru City Center,2026-08-23T04:00,24.2,69
+Bengaluru City Center,2026-08-23T05:00,25.3,65
+Bengaluru City Center,2026-08-23T06:00,26.2,61
+Bengaluru City Center,2026-08-23T07:00,27.1,58
+Bengaluru City Center,2026-08-23T08:00,28.4,53
+Bengaluru City Center,2026-08-23T09:00,27.6,57
+Bengaluru City Center,2026-08-23T10:00,26.8,63
+Bengaluru City Center,2026-08-23T11:00,24.3,74
+Bengaluru City Center,2026-08-23T12:00,23.6,84
+Bengaluru City Center,2026-08-23T13:00,22.9,87
+Bengaluru City Center,2026-08-23T14:00,21.4,93
+Bengaluru City Center,2026-08-23T15:00,21.2,92
+Bengaluru City Center,2026-08-23T16:00,21.3,92
+Bengaluru City Center,2026-08-23T17:00,21.0,93
+Bengaluru City Center,2026-08-23T18:00,20.6,94
+Bengaluru City Center,2026-08-23T19:00,20.5,93
+Bengaluru City Center,2026-08-23T20:00,20.6,92
+Bengaluru City Center,2026-08-23T21:00,20.7,90
+Bengaluru City Center,2026-08-23T22:00,20.7,90
+Bengaluru City Center,2026-08-23T23:00,20.7,89
+Bengaluru City Center,2026-08-24T00:00,20.9,88
+Bengaluru City Center,2026-08-24T01:00,21.3,87
+Bengaluru City Center,2026-08-24T02:00,21.8,85
+Bengaluru City Center,2026-08-24T03:00,22.5,81
+Bengaluru City Center,2026-08-24T04:00,23.7,75
+Bengaluru City Center,2026-08-24T05:00,25.2,67
+Bengaluru City Center,2026-08-24T06:00,26.3,62
+Bengaluru City Center,2026-08-24T07:00,26.8,60
+Bengaluru City Center,2026-08-24T08:00,27.0,60
+Bengaluru City Center,2026-08-24T09:00,26.6,63
+Bengaluru City Center,2026-08-24T10:00,25.3,70
+Bengaluru City Center,2026-08-24T11:00,23.5,80
+Bengaluru City Center,2026-08-24T12:00,22.2,88
+Bengaluru City Center,2026-08-24T13:00,21.9,91
+Bengaluru City Center,2026-08-24T14:00,22.1,90
+Bengaluru City Center,2026-08-24T15:00,22.2,89
+Bengaluru City Center,2026-08-24T16:00,21.9,89
+Bengaluru City Center,2026-08-24T17:00,21.4,90
+Bengaluru City Center,2026-08-24T18:00,21.1,90
+Bengaluru City Center,2026-08-24T19:00,20.8,91
+Bengaluru City Center,2026-08-24T20:00,20.6,91
+Bengaluru City Center,2026-08-24T21:00,20.5,91
+Bengaluru City Center,2026-08-24T22:00,20.5,90
+Bengaluru City Center,2026-08-24T23:00,20.6,89
+Bengaluru City Center,2026-08-25T00:00,20.7,88
+Bengaluru City Center,2026-08-25T01:00,20.8,89
+Bengaluru City Center,2026-08-25T02:00,21.0,89
+Bengaluru City Center,2026-08-25T03:00,21.6,87
+Bengaluru City Center,2026-08-25T04:00,22.9,79
+Bengaluru City Center,2026-08-25T05:00,24.6,71
+Bengaluru City Center,2026-08-25T06:00,26.0,64
+Bengaluru City Center,2026-08-25T07:00,27.0,61
+Bengaluru City Center,2026-08-25T08:00,27.7,60
+Bengaluru City Center,2026-08-25T09:00,27.7,60
+Bengaluru City Center,2026-08-25T10:00,26.6,65
+Bengaluru City Center,2026-08-25T11:00,24.8,74
+Bengaluru City Center,2026-08-25T12:00,23.2,81
+Bengaluru City Center,2026-08-25T13:00,22.3,86
+Bengaluru City Center,2026-08-25T14:00,21.6,89
+Bengaluru City Center,2026-08-25T15:00,21.1,91
+Bengaluru City Center,2026-08-25T16:00,20.9,93
+Bengaluru City Center,2026-08-25T17:00,20.8,93
+Bengaluru City Center,2026-08-25T18:00,20.8,92
+Bengaluru City Center,2026-08-25T19:00,20.6,93
+Bengaluru City Center,2026-08-25T20:00,20.5,93
+Bengaluru City Center,2026-08-25T21:00,20.4,93
+Bengaluru City Center,2026-08-25T22:00,20.0,93
+Bengaluru City Center,2026-08-25T23:00,20.1,91
+Bengaluru City Center,2026-08-26T00:00,20.4,89
+Bengaluru City Center,2026-08-26T01:00,21.0,85
+Bengaluru City Center,2026-08-26T02:00,22.0,81
+Bengaluru City Center,2026-08-26T03:00,23.1,75
+Bengaluru City Center,2026-08-26T04:00,24.2,71
+Bengaluru City Center,2026-08-26T05:00,25.2,67
+Bengaluru City Center,2026-08-26T06:00,25.9,64
+Bengaluru City Center,2026-08-26T07:00,26.3,63
+Bengaluru City Center,2026-08-26T08:00,26.6,62
+Bengaluru City Center,2026-08-26T09:00,26.8,61
+Bengaluru City Center,2026-08-26T10:00,26.9,62
+Bengaluru City Center,2026-08-26T11:00,26.7,63
+Bengaluru City Center,2026-08-26T12:00,26.4,64
+Bengaluru City Center,2026-08-26T13:00,25.8,66
+Bengaluru City Center,2026-08-26T14:00,24.9,70
+Bengaluru City Center,2026-08-26T15:00,23.7,76
+Bengaluru City Center,2026-08-26T16:00,22.6,81
+Bengaluru City Center,2026-08-26T17:00,21.7,86
+Bengaluru City Center,2026-08-26T18:00,21.0,90
+Bengaluru City Center,2026-08-26T19:00,20.6,92
+Bengaluru City Center,2026-08-26T20:00,20.3,94
+Bengaluru City Center,2026-08-26T21:00,20.1,94
+Bengaluru City Center,2026-08-26T22:00,20.2,94
+Bengaluru City Center,2026-08-26T23:00,20.4,92
+Whitefield,2026-08-20T00:00,21.5,90
+Whitefield,2026-08-20T01:00,21.3,91
+Whitefield,2026-08-20T02:00,22.3,85
+Whitefield,2026-08-20T03:00,23.7,78
+Whitefield,2026-08-20T04:00,25.2,71
+Whitefield,2026-08-20T05:00,25.6,67
+Whitefield,2026-08-20T06:00,26.9,63
+Whitefield,2026-08-20T07:00,28.0,59
+Whitefield,2026-08-20T08:00,29.0,54
+Whitefield,2026-08-20T09:00,27.5,59
+Whitefield,2026-08-20T10:00,29.0,55
+Whitefield,2026-08-20T11:00,24.2,81
+Whitefield,2026-08-20T12:00,24.5,79
+Whitefield,2026-08-20T13:00,23.6,79
+Whitefield,2026-08-20T14:00,23.1,83
+Whitefield,2026-08-20T15:00,22.6,85
+Whitefield,2026-08-20T16:00,22.3,88
+Whitefield,2026-08-20T17:00,22.2,85
+Whitefield,2026-08-20T18:00,21.6,86
+Whitefield,2026-08-20T19:00,21.1,88
+Whitefield,2026-08-20T20:00,20.7,89
+Whitefield,2026-08-20T21:00,20.4,91
+Whitefield,2026-08-20T22:00,20.2,92
+Whitefield,2026-08-20T23:00,20.3,91
+Whitefield,2026-08-21T00:00,20.7,90
+Whitefield,2026-08-21T01:00,20.9,88
+Whitefield,2026-08-21T02:00,21.8,84
+Whitefield,2026-08-21T03:00,23.3,75
+Whitefield,2026-08-21T04:00,24.7,67
+Whitefield,2026-08-21T05:00,25.9,61
+Whitefield,2026-08-21T06:00,26.8,57
+Whitefield,2026-08-21T07:00,27.8,54
+Whitefield,2026-08-21T08:00,29.2,50
+Whitefield,2026-08-21T09:00,29.4,48
+Whitefield,2026-08-21T10:00,29.3,48
+Whitefield,2026-08-21T11:00,28.6,51
+Whitefield,2026-08-21T12:00,27.3,55
+Whitefield,2026-08-21T13:00,26.0,60
+Whitefield,2026-08-21T14:00,24.2,70
+Whitefield,2026-08-21T15:00,23.6,71
+Whitefield,2026-08-21T16:00,22.6,73
+Whitefield,2026-08-21T17:00,21.7,77
+Whitefield,2026-08-21T18:00,21.1,82
+Whitefield,2026-08-21T19:00,20.6,87
+Whitefield,2026-08-21T20:00,20.3,89
+Whitefield,2026-08-21T21:00,20.1,89
+Whitefield,2026-08-21T22:00,20.0,90
+Whitefield,2026-08-21T23:00,20.0,90
+Whitefield,2026-08-22T00:00,20.4,88
+Whitefield,2026-08-22T01:00,20.8,86
+Whitefield,2026-08-22T02:00,21.7,83
+Whitefield,2026-08-22T03:00,23.3,74
+Whitefield,2026-08-22T04:00,24.4,67
+Whitefield,2026-08-22T05:00,25.7,61
+Whitefield,2026-08-22T06:00,26.8,57
+Whitefield,2026-08-22T07:00,28.3,51
+Whitefield,2026-08-22T08:00,29.1,49
+Whitefield,2026-08-22T09:00,27.3,56
+Whitefield,2026-08-22T10:00,26.3,62
+Whitefield,2026-08-22T11:00,27.5,60
+Whitefield,2026-08-22T12:00,26.4,65
+Whitefield,2026-08-22T13:00,25.5,69
+Whitefield,2026-08-22T14:00,24.8,70
+Whitefield,2026-08-22T15:00,24.0,74
+Whitefield,2026-08-22T16:00,23.0,79
+Whitefield,2026-08-22T17:00,22.2,83
+Whitefield,2026-08-22T18:00,21.5,86
+Whitefield,2026-08-22T19:00,21.1,88
+Whitefield,2026-08-22T20:00,20.6,90
+Whitefield,2026-08-22T21:00,20.3,91
+Whitefield,2026-08-22T22:00,20.2,91
+Whitefield,2026-08-22T23:00,20.3,91
+Whitefield,2026-08-23T00:00,20.4,89
+Whitefield,2026-08-23T01:00,20.7,87
+Whitefield,2026-08-23T02:00,21.7,81
+Whitefield,2026-08-23T03:00,23.6,72
+Whitefield,2026-08-23T04:00,25.0,66
+Whitefield,2026-08-23T05:00,25.6,63
+Whitefield,2026-08-23T06:00,26.8,58
+Whitefield,2026-08-23T07:00,27.6,56
+Whitefield,2026-08-23T08:00,29.1,50
+Whitefield,2026-08-23T09:00,29.3,49
+Whitefield,2026-08-23T10:00,28.0,59
+Whitefield,2026-08-23T11:00,25.2,68
+Whitefield,2026-08-23T12:00,24.1,77
+Whitefield,2026-08-23T13:00,23.5,84
+Whitefield,2026-08-23T14:00,22.2,86
+Whitefield,2026-08-23T15:00,21.8,88
+Whitefield,2026-08-23T16:00,21.8,88
+Whitefield,2026-08-23T17:00,21.7,88
+Whitefield,2026-08-23T18:00,21.3,90
+Whitefield,2026-08-23T19:00,21.1,89
+Whitefield,2026-08-23T20:00,21.0,89
+Whitefield,2026-08-23T21:00,21.0,88
+Whitefield,2026-08-23T22:00,21.0,88
+Whitefield,2026-08-23T23:00,21.0,87
+Whitefield,2026-08-24T00:00,21.2,86
+Whitefield,2026-08-24T01:00,21.6,84
+Whitefield,2026-08-24T02:00,22.2,82
+Whitefield,2026-08-24T03:00,23.0,78
+Whitefield,2026-08-24T04:00,24.4,71
+Whitefield,2026-08-24T05:00,26.0,63
+Whitefield,2026-08-24T06:00,27.3,57
+Whitefield,2026-08-24T07:00,28.2,54
+Whitefield,2026-08-24T08:00,28.8,52
+Whitefield,2026-08-24T09:00,28.7,52
+Whitefield,2026-08-24T10:00,27.4,57
+Whitefield,2026-08-24T11:00,25.4,67
+Whitefield,2026-08-24T12:00,23.8,76
+Whitefield,2026-08-24T13:00,23.2,81
+Whitefield,2026-08-24T14:00,23.0,84
+Whitefield,2026-08-24T15:00,22.7,86
+Whitefield,2026-08-24T16:00,22.3,87
+Whitefield,2026-08-24T17:00,22.0,87
+Whitefield,2026-08-24T18:00,21.6,87
+Whitefield,2026-08-24T19:00,21.3,88
+Whitefield,2026-08-24T20:00,21.1,88
+Whitefield,2026-08-24T21:00,21.0,88
+Whitefield,2026-08-24T22:00,20.9,88
+Whitefield,2026-08-24T23:00,20.9,88
+Whitefield,2026-08-25T00:00,21.0,87
+Whitefield,2026-08-25T01:00,21.3,86
+Whitefield,2026-08-25T02:00,21.7,85
+Whitefield,2026-08-25T03:00,22.5,82
+Whitefield,2026-08-25T04:00,23.9,74
+Whitefield,2026-08-25T05:00,25.8,65
+Whitefield,2026-08-25T06:00,27.1,59
+Whitefield,2026-08-25T07:00,27.7,57
+Whitefield,2026-08-25T08:00,27.9,57
+Whitefield,2026-08-25T09:00,27.6,59
+Whitefield,2026-08-25T10:00,26.7,63
+Whitefield,2026-08-25T11:00,25.4,70
+Whitefield,2026-08-25T12:00,24.2,76
+Whitefield,2026-08-25T13:00,23.3,80
+Whitefield,2026-08-25T14:00,22.5,83
+Whitefield,2026-08-25T15:00,22.0,86
+Whitefield,2026-08-25T16:00,21.7,87
+Whitefield,2026-08-25T17:00,21.5,88
+Whitefield,2026-08-25T18:00,21.4,88
+Whitefield,2026-08-25T19:00,21.2,89
+Whitefield,2026-08-25T20:00,21.1,89
+Whitefield,2026-08-25T21:00,20.9,89
+Whitefield,2026-08-25T22:00,20.3,91
+Whitefield,2026-08-25T23:00,20.4,89
+Whitefield,2026-08-26T00:00,20.7,87
+Whitefield,2026-08-26T01:00,21.4,83
+Whitefield,2026-08-26T02:00,22.4,78
+Whitefield,2026-08-26T03:00,23.6,72
+Whitefield,2026-08-26T04:00,24.9,67
+Whitefield,2026-08-26T05:00,26.0,63
+Whitefield,2026-08-26T06:00,26.7,60
+Whitefield,2026-08-26T07:00,27.2,59
+Whitefield,2026-08-26T08:00,27.6,58
+Whitefield,2026-08-26T09:00,27.8,58
+Whitefield,2026-08-26T10:00,27.8,58
+Whitefield,2026-08-26T11:00,27.7,59
+Whitefield,2026-08-26T12:00,27.4,60
+Whitefield,2026-08-26T13:00,26.7,63
+Whitefield,2026-08-26T14:00,25.8,67
+Whitefield,2026-08-26T15:00,24.6,72
+Whitefield,2026-08-26T16:00,23.4,77
+Whitefield,2026-08-26T17:00,22.4,82
+Whitefield,2026-08-26T18:00,21.7,86
+Whitefield,2026-08-26T19:00,21.2,88
+Whitefield,2026-08-26T20:00,20.9,90
+Whitefield,2026-08-26T21:00,20.7,91
+Whitefield,2026-08-26T22:00,20.6,91
+Whitefield,2026-08-26T23:00,20.8,89
+Electronic City,2026-08-20T00:00,20.9,95
+Electronic City,2026-08-20T01:00,20.8,95
+Electronic City,2026-08-20T02:00,21.8,89
+Electronic City,2026-08-20T03:00,23.4,82
+Electronic City,2026-08-20T04:00,25.0,72
+Electronic City,2026-08-20T05:00,25.5,70
+Electronic City,2026-08-20T06:00,25.5,71
+Electronic City,2026-08-20T07:00,28.0,61
+Electronic City,2026-08-20T08:00,26.2,66
+Electronic City,2026-08-20T09:00,27.5,64
+Electronic City,2026-08-20T10:00,24.9,77
+Electronic City,2026-08-20T11:00,23.8,83
+Electronic City,2026-08-20T12:00,23.3,83
+Electronic City,2026-08-20T13:00,21.5,93
+Electronic City,2026-08-20T14:00,21.8,94
+Electronic City,2026-08-20T15:00,21.0,94
+Electronic City,2026-08-20T16:00,21.2,93
+Electronic City,2026-08-20T17:00,20.8,92
+Electronic City,2026-08-20T18:00,20.3,92
+Electronic City,2026-08-20T19:00,20.0,94
+Electronic City,2026-08-20T20:00,19.8,95
+Electronic City,2026-08-20T21:00,19.7,96
+Electronic City,2026-08-20T22:00,19.7,96
+Electronic City,2026-08-20T23:00,19.9,94
+Electronic City,2026-08-21T00:00,20.1,93
+Electronic City,2026-08-21T01:00,20.4,92
+Electronic City,2026-08-21T02:00,21.1,88
+Electronic City,2026-08-21T03:00,22.8,78
+Electronic City,2026-08-21T04:00,23.9,71
+Electronic City,2026-08-21T05:00,25.4,64
+Electronic City,2026-08-21T06:00,26.9,57
+Electronic City,2026-08-21T07:00,27.6,55
+Electronic City,2026-08-21T08:00,28.6,52
+Electronic City,2026-08-21T09:00,28.9,51
+Electronic City,2026-08-21T10:00,28.5,51
+Electronic City,2026-08-21T11:00,27.4,54
+Electronic City,2026-08-21T12:00,26.0,60
+Electronic City,2026-08-21T13:00,24.8,65
+Electronic City,2026-08-21T14:00,23.7,69
+Electronic City,2026-08-21T15:00,23.2,70
+Electronic City,2026-08-21T16:00,22.0,74
+Electronic City,2026-08-21T17:00,21.1,79
+Electronic City,2026-08-21T18:00,20.5,85
+Electronic City,2026-08-21T19:00,20.1,88
+Electronic City,2026-08-21T20:00,19.7,91
+Electronic City,2026-08-21T21:00,19.6,92
+Electronic City,2026-08-21T22:00,19.3,94
+Electronic City,2026-08-21T23:00,19.6,93
+Electronic City,2026-08-22T00:00,20.0,91
+Electronic City,2026-08-22T01:00,20.2,91
+Electronic City,2026-08-22T02:00,20.9,88
+Electronic City,2026-08-22T03:00,22.8,78
+Electronic City,2026-08-22T04:00,23.7,72
+Electronic City,2026-08-22T05:00,25.3,66
+Electronic City,2026-08-22T06:00,26.9,58
+Electronic City,2026-08-22T07:00,27.9,54
+Electronic City,2026-08-22T08:00,28.6,52
+Electronic City,2026-08-22T09:00,26.7,65
+Electronic City,2026-08-22T10:00,26.4,64
+Electronic City,2026-08-22T11:00,27.1,62
+Electronic City,2026-08-22T12:00,24.8,76
+Electronic City,2026-08-22T13:00,24.8,72
+Electronic City,2026-08-22T14:00,23.9,73
+Electronic City,2026-08-22T15:00,23.2,74
+Electronic City,2026-08-22T16:00,22.2,80
+Electronic City,2026-08-22T17:00,21.6,84
+Electronic City,2026-08-22T18:00,21.0,87
+Electronic City,2026-08-22T19:00,20.6,89
+Electronic City,2026-08-22T20:00,20.2,91
+Electronic City,2026-08-22T21:00,20.1,91
+Electronic City,2026-08-22T22:00,20.0,92
+Electronic City,2026-08-22T23:00,20.0,92
+Electronic City,2026-08-23T00:00,20.2,91
+Electronic City,2026-08-23T01:00,20.4,90
+Electronic City,2026-08-23T02:00,21.4,85
+Electronic City,2026-08-23T03:00,23.2,75
+Electronic City,2026-08-23T04:00,24.1,72
+Electronic City,2026-08-23T05:00,25.6,65
+Electronic City,2026-08-23T06:00,26.4,61
+Electronic City,2026-08-23T07:00,27.5,57
+Electronic City,2026-08-23T08:00,28.9,53
+Electronic City,2026-08-23T09:00,28.6,54
+Electronic City,2026-08-23T10:00,28.0,58
+Electronic City,2026-08-23T11:00,22.8,90
+Electronic City,2026-08-23T12:00,22.9,90
+Electronic City,2026-08-23T13:00,22.5,90
+Electronic City,2026-08-23T14:00,21.6,95
+Electronic City,2026-08-23T15:00,21.3,95
+Electronic City,2026-08-23T16:00,21.1,93
+Electronic City,2026-08-23T17:00,20.8,94
+Electronic City,2026-08-23T18:00,20.6,94
+Electronic City,2026-08-23T19:00,20.5,93
+Electronic City,2026-08-23T20:00,20.5,92
+Electronic City,2026-08-23T21:00,20.5,91
+Electronic City,2026-08-23T22:00,20.4,92
+Electronic City,2026-08-23T23:00,20.3,93
+Electronic City,2026-08-24T00:00,20.4,93
+Electronic City,2026-08-24T01:00,20.8,92
+Electronic City,2026-08-24T02:00,21.3,89
+Electronic City,2026-08-24T03:00,22.1,84
+Electronic City,2026-08-24T04:00,23.5,77
+Electronic City,2026-08-24T05:00,25.2,69
+Electronic City,2026-08-24T06:00,26.6,62
+Electronic City,2026-08-24T07:00,27.7,57
+Electronic City,2026-08-24T08:00,28.5,54
+Electronic City,2026-08-24T09:00,28.6,53
+Electronic City,2026-08-24T10:00,27.5,58
+Electronic City,2026-08-24T11:00,25.7,68
+Electronic City,2026-08-24T12:00,24.1,78
+Electronic City,2026-08-24T13:00,23.1,84
+Electronic City,2026-08-24T14:00,22.2,89
+Electronic City,2026-08-24T15:00,21.6,91
+Electronic City,2026-08-24T16:00,21.3,92
+Electronic City,2026-08-24T17:00,21.3,90
+Electronic City,2026-08-24T18:00,21.2,89
+Electronic City,2026-08-24T19:00,20.8,91
+Electronic City,2026-08-24T20:00,20.5,93
+Electronic City,2026-08-24T21:00,20.2,95
+Electronic City,2026-08-24T22:00,20.0,95
+Electronic City,2026-08-24T23:00,20.0,95
+Electronic City,2026-08-25T00:00,20.1,93
+Electronic City,2026-08-25T01:00,20.6,91
+Electronic City,2026-08-25T02:00,21.2,88
+Electronic City,2026-08-25T03:00,22.1,84
+Electronic City,2026-08-25T04:00,23.4,77
+Electronic City,2026-08-25T05:00,24.9,70
+Electronic City,2026-08-25T06:00,26.1,65
+Electronic City,2026-08-25T07:00,26.9,62
+Electronic City,2026-08-25T08:00,27.4,62
+Electronic City,2026-08-25T09:00,27.2,63
+Electronic City,2026-08-25T10:00,26.1,69
+Electronic City,2026-08-25T11:00,24.4,77
+Electronic City,2026-08-25T12:00,22.9,85
+Electronic City,2026-08-25T13:00,22.0,90
+Electronic City,2026-08-25T14:00,21.4,92
+Electronic City,2026-08-25T15:00,20.9,93
+Electronic City,2026-08-25T16:00,20.7,94
+Electronic City,2026-08-25T17:00,20.6,95
+Electronic City,2026-08-25T18:00,20.5,95
+Electronic City,2026-08-25T19:00,20.3,96
+Electronic City,2026-08-25T20:00,20.1,97
+Electronic City,2026-08-25T21:00,19.9,98
+Electronic City,2026-08-25T22:00,19.4,98
+Electronic City,2026-08-25T23:00,19.5,98
+Electronic City,2026-08-26T00:00,19.8,95
+Electronic City,2026-08-26T01:00,20.5,91
+Electronic City,2026-08-26T02:00,21.6,84
+Electronic City,2026-08-26T03:00,22.9,78
+Electronic City,2026-08-26T04:00,24.2,72
+Electronic City,2026-08-26T05:00,25.3,67
+Electronic City,2026-08-26T06:00,26.1,64
+Electronic City,2026-08-26T07:00,26.6,62
+Electronic City,2026-08-26T08:00,26.9,61
+Electronic City,2026-08-26T09:00,27.0,61
+Electronic City,2026-08-26T10:00,26.9,61
+Electronic City,2026-08-26T11:00,26.7,62
+Electronic City,2026-08-26T12:00,26.4,63
+Electronic City,2026-08-26T13:00,25.7,66
+Electronic City,2026-08-26T14:00,24.8,70
+Electronic City,2026-08-26T15:00,23.7,75
+Electronic City,2026-08-26T16:00,22.6,81
+Electronic City,2026-08-26T17:00,21.6,86
+Electronic City,2026-08-26T18:00,20.9,90
+Electronic City,2026-08-26T19:00,20.5,93
+Electronic City,2026-08-26T20:00,20.2,94
+Electronic City,2026-08-26T21:00,20.0,95
+Electronic City,2026-08-26T22:00,20.0,95
+Electronic City,2026-08-26T23:00,20.1,93
+Yeshwanthpur,2026-08-20T00:00,21.1,92
+Yeshwanthpur,2026-08-20T01:00,20.8,94
+Yeshwanthpur,2026-08-20T02:00,21.8,91
+Yeshwanthpur,2026-08-20T03:00,23.5,81
+Yeshwanthpur,2026-08-20T04:00,24.6,73
+Yeshwanthpur,2026-08-20T05:00,25.1,73
+Yeshwanthpur,2026-08-20T06:00,26.3,66
+Yeshwanthpur,2026-08-20T07:00,27.7,61
+Yeshwanthpur,2026-08-20T08:00,28.4,57
+Yeshwanthpur,2026-08-20T09:00,26.6,66
+Yeshwanthpur,2026-08-20T10:00,26.4,62
+Yeshwanthpur,2026-08-20T11:00,26.0,68
+Yeshwanthpur,2026-08-20T12:00,25.1,75
+Yeshwanthpur,2026-08-20T13:00,22.9,86
+Yeshwanthpur,2026-08-20T14:00,22.4,90
+Yeshwanthpur,2026-08-20T15:00,22.1,90
+Yeshwanthpur,2026-08-20T16:00,21.8,91
+Yeshwanthpur,2026-08-20T17:00,21.4,89
+Yeshwanthpur,2026-08-20T18:00,20.9,90
+Yeshwanthpur,2026-08-20T19:00,20.6,91
+Yeshwanthpur,2026-08-20T20:00,20.2,93
+Yeshwanthpur,2026-08-20T21:00,20.0,93
+Yeshwanthpur,2026-08-20T22:00,19.8,95
+Yeshwanthpur,2026-08-20T23:00,20.2,92
+Yeshwanthpur,2026-08-21T00:00,20.5,91
+Yeshwanthpur,2026-08-21T01:00,20.5,91
+Yeshwanthpur,2026-08-21T02:00,21.3,87
+Yeshwanthpur,2026-08-21T03:00,22.8,77
+Yeshwanthpur,2026-08-21T04:00,24.1,70
+Yeshwanthpur,2026-08-21T05:00,25.4,64
+Yeshwanthpur,2026-08-21T06:00,26.0,62
+Yeshwanthpur,2026-08-21T07:00,27.7,56
+Yeshwanthpur,2026-08-21T08:00,28.6,52
+Yeshwanthpur,2026-08-21T09:00,28.7,50
+Yeshwanthpur,2026-08-21T10:00,28.4,51
+Yeshwanthpur,2026-08-21T11:00,27.7,53
+Yeshwanthpur,2026-08-21T12:00,27.2,53
+Yeshwanthpur,2026-08-21T13:00,25.0,65
+Yeshwanthpur,2026-08-21T14:00,23.7,72
+Yeshwanthpur,2026-08-21T15:00,23.1,71
+Yeshwanthpur,2026-08-21T16:00,21.9,77
+Yeshwanthpur,2026-08-21T17:00,21.1,81
+Yeshwanthpur,2026-08-21T18:00,20.5,86
+Yeshwanthpur,2026-08-21T19:00,20.1,90
+Yeshwanthpur,2026-08-21T20:00,19.8,91
+Yeshwanthpur,2026-08-21T21:00,19.7,92
+Yeshwanthpur,2026-08-21T22:00,19.7,91
+Yeshwanthpur,2026-08-21T23:00,19.9,91
+Yeshwanthpur,2026-08-22T00:00,20.5,88
+Yeshwanthpur,2026-08-22T01:00,20.7,88
+Yeshwanthpur,2026-08-22T02:00,21.3,86
+Yeshwanthpur,2026-08-22T03:00,22.6,78
+Yeshwanthpur,2026-08-22T04:00,23.9,71
+Yeshwanthpur,2026-08-22T05:00,24.3,70
+Yeshwanthpur,2026-08-22T06:00,25.7,64
+Yeshwanthpur,2026-08-22T07:00,27.5,57
+Yeshwanthpur,2026-08-22T08:00,28.0,53
+Yeshwanthpur,2026-08-22T09:00,25.9,63
+Yeshwanthpur,2026-08-22T10:00,26.4,68
+Yeshwanthpur,2026-08-22T11:00,28.1,57
+Yeshwanthpur,2026-08-22T12:00,25.4,69
+Yeshwanthpur,2026-08-22T13:00,25.0,72
+Yeshwanthpur,2026-08-22T14:00,24.2,74
+Yeshwanthpur,2026-08-22T15:00,23.3,78
+Yeshwanthpur,2026-08-22T16:00,22.4,82
+Yeshwanthpur,2026-08-22T17:00,21.6,86
+Yeshwanthpur,2026-08-22T18:00,21.0,88
+Yeshwanthpur,2026-08-22T19:00,20.5,91
+Yeshwanthpur,2026-08-22T20:00,20.1,93
+Yeshwanthpur,2026-08-22T21:00,19.8,94
+Yeshwanthpur,2026-08-22T22:00,19.8,93
+Yeshwanthpur,2026-08-22T23:00,20.1,92
+Yeshwanthpur,2026-08-23T00:00,20.2,90
+Yeshwanthpur,2026-08-23T01:00,20.5,88
+Yeshwanthpur,2026-08-23T02:00,21.4,84
+Yeshwanthpur,2026-08-23T03:00,23.2,73
+Yeshwanthpur,2026-08-23T04:00,24.5,69
+Yeshwanthpur,2026-08-23T05:00,25.1,66
+Yeshwanthpur,2026-08-23T06:00,26.1,62
+Yeshwanthpur,2026-08-23T07:00,27.3,58
+Yeshwanthpur,2026-08-23T08:00,28.4,55
+Yeshwanthpur,2026-08-23T09:00,27.0,61
+Yeshwanthpur,2026-08-23T10:00,26.9,62
+Yeshwanthpur,2026-08-23T11:00,24.1,79
+Yeshwanthpur,2026-08-23T12:00,22.9,85
+Yeshwanthpur,2026-08-23T13:00,22.4,91
+Yeshwanthpur,2026-08-23T14:00,21.2,95
+Yeshwanthpur,2026-08-23T15:00,21.1,93
+Yeshwanthpur,2026-08-23T16:00,21.2,93
+Yeshwanthpur,2026-08-23T17:00,21.1,93
+Yeshwanthpur,2026-08-23T18:00,20.6,94
+Yeshwanthpur,2026-08-23T19:00,20.6,93
+Yeshwanthpur,2026-08-23T20:00,20.6,92
+Yeshwanthpur,2026-08-23T21:00,20.6,91
+Yeshwanthpur,2026-08-23T22:00,20.6,90
+Yeshwanthpur,2026-08-23T23:00,20.7,89
+Yeshwanthpur,2026-08-24T00:00,20.9,88
+Yeshwanthpur,2026-08-24T01:00,21.3,86
+Yeshwanthpur,2026-08-24T02:00,21.9,84
+Yeshwanthpur,2026-08-24T03:00,22.7,80
+Yeshwanthpur,2026-08-24T04:00,23.8,74
+Yeshwanthpur,2026-08-24T05:00,25.2,67
+Yeshwanthpur,2026-08-24T06:00,26.1,64
+Yeshwanthpur,2026-08-24T07:00,26.3,64
+Yeshwanthpur,2026-08-24T08:00,26.0,66
+Yeshwanthpur,2026-08-24T09:00,25.5,69
+Yeshwanthpur,2026-08-24T10:00,24.4,75
+Yeshwanthpur,2026-08-24T11:00,23.0,83
+Yeshwanthpur,2026-08-24T12:00,22.1,89
+Yeshwanthpur,2026-08-24T13:00,21.9,91
+Yeshwanthpur,2026-08-24T14:00,22.2,89
+Yeshwanthpur,2026-08-24T15:00,22.3,88
+Yeshwanthpur,2026-08-24T16:00,22.0,89
+Yeshwanthpur,2026-08-24T17:00,21.5,90
+Yeshwanthpur,2026-08-24T18:00,21.1,91
+Yeshwanthpur,2026-08-24T19:00,20.8,91
+Yeshwanthpur,2026-08-24T20:00,20.6,91
+Yeshwanthpur,2026-08-24T21:00,20.5,91
+Yeshwanthpur,2026-08-24T22:00,20.5,90
+Yeshwanthpur,2026-08-24T23:00,20.5,89
+Yeshwanthpur,2026-08-25T00:00,20.7,89
+Yeshwanthpur,2026-08-25T01:00,21.0,88
+Yeshwanthpur,2026-08-25T02:00,21.4,88
+Yeshwanthpur,2026-08-25T03:00,22.1,85
+Yeshwanthpur,2026-08-25T04:00,23.3,78
+Yeshwanthpur,2026-08-25T05:00,24.7,70
+Yeshwanthpur,2026-08-25T06:00,25.9,65
+Yeshwanthpur,2026-08-25T07:00,26.9,62
+Yeshwanthpur,2026-08-25T08:00,27.6,60
+Yeshwanthpur,2026-08-25T09:00,27.7,61
+Yeshwanthpur,2026-08-25T10:00,26.6,66
+Yeshwanthpur,2026-08-25T11:00,24.9,76
+Yeshwanthpur,2026-08-25T12:00,23.4,84
+Yeshwanthpur,2026-08-25T13:00,22.4,88
+Yeshwanthpur,2026-08-25T14:00,21.7,90
+Yeshwanthpur,2026-08-25T15:00,21.2,91
+Yeshwanthpur,2026-08-25T16:00,20.9,92
+Yeshwanthpur,2026-08-25T17:00,20.8,92
+Yeshwanthpur,2026-08-25T18:00,20.8,93
+Yeshwanthpur,2026-08-25T19:00,20.7,93
+Yeshwanthpur,2026-08-25T20:00,20.6,93
+Yeshwanthpur,2026-08-25T21:00,20.5,92
+Yeshwanthpur,2026-08-25T22:00,19.9,94
+Yeshwanthpur,2026-08-25T23:00,20.0,92
+Yeshwanthpur,2026-08-26T00:00,20.3,90
+Yeshwanthpur,2026-08-26T01:00,21.0,86
+Yeshwanthpur,2026-08-26T02:00,22.0,81
+Yeshwanthpur,2026-08-26T03:00,23.2,75
+Yeshwanthpur,2026-08-26T04:00,24.4,70
+Yeshwanthpur,2026-08-26T05:00,25.4,66
+Yeshwanthpur,2026-08-26T06:00,26.1,63
+Yeshwanthpur,2026-08-26T07:00,26.5,62
+Yeshwanthpur,2026-08-26T08:00,26.7,62
+Yeshwanthpur,2026-08-26T09:00,26.7,63
+Yeshwanthpur,2026-08-26T10:00,26.6,64
+Yeshwanthpur,2026-08-26T11:00,26.3,65
+Yeshwanthpur,2026-08-26T12:00,25.9,67
+Yeshwanthpur,2026-08-26T13:00,25.3,70
+Yeshwanthpur,2026-08-26T14:00,24.5,73
+Yeshwanthpur,2026-08-26T15:00,23.5,78
+Yeshwanthpur,2026-08-26T16:00,22.5,83
+Yeshwanthpur,2026-08-26T17:00,21.6,87
+Yeshwanthpur,2026-08-26T18:00,21.0,90
+Yeshwanthpur,2026-08-26T19:00,20.6,92
+Yeshwanthpur,2026-08-26T20:00,20.3,93
+Yeshwanthpur,2026-08-26T21:00,20.2,94
+Yeshwanthpur,2026-08-26T22:00,20.1,94
+Yeshwanthpur,2026-08-26T23:00,20.3,93
+Koramangala,2026-08-20T00:00,21.2,92
+Koramangala,2026-08-20T01:00,20.9,93
+Koramangala,2026-08-20T02:00,21.7,88
+Koramangala,2026-08-20T03:00,23.1,82
+Koramangala,2026-08-20T04:00,25.0,72
+Koramangala,2026-08-20T05:00,24.5,74
+Koramangala,2026-08-20T06:00,25.8,68
+Koramangala,2026-08-20T07:00,27.4,62
+Koramangala,2026-08-20T08:00,27.8,59
+Koramangala,2026-08-20T09:00,26.4,65
+Koramangala,2026-08-20T10:00,27.2,62
+Koramangala,2026-08-20T11:00,24.1,84
+Koramangala,2026-08-20T12:00,24.0,80
+Koramangala,2026-08-20T13:00,23.1,82
+Koramangala,2026-08-20T14:00,22.7,86
+Koramangala,2026-08-20T15:00,22.0,89
+Koramangala,2026-08-20T16:00,21.9,90
+Koramangala,2026-08-20T17:00,21.6,88
+Koramangala,2026-08-20T18:00,21.0,89
+Koramangala,2026-08-20T19:00,20.6,91
+Koramangala,2026-08-20T20:00,20.2,92
+Koramangala,2026-08-20T21:00,20.0,93
+Koramangala,2026-08-20T22:00,19.8,94
+Koramangala,2026-08-20T23:00,20.0,93
+Koramangala,2026-08-21T00:00,20.3,92
+Koramangala,2026-08-21T01:00,20.5,91
+Koramangala,2026-08-21T02:00,21.2,87
+Koramangala,2026-08-21T03:00,22.7,78
+Koramangala,2026-08-21T04:00,24.0,71
+Koramangala,2026-08-21T05:00,25.2,65
+Koramangala,2026-08-21T06:00,26.0,61
+Koramangala,2026-08-21T07:00,27.2,57
+Koramangala,2026-08-21T08:00,28.2,54
+Koramangala,2026-08-21T09:00,28.4,52
+Koramangala,2026-08-21T10:00,28.4,52
+Koramangala,2026-08-21T11:00,27.6,55
+Koramangala,2026-08-21T12:00,26.7,58
+Koramangala,2026-08-21T13:00,25.1,64
+Koramangala,2026-08-21T14:00,23.5,74
+Koramangala,2026-08-21T15:00,22.9,73
+Koramangala,2026-08-21T16:00,21.9,77
+Koramangala,2026-08-21T17:00,21.1,80
+Koramangala,2026-08-21T18:00,20.5,86
+Koramangala,2026-08-21T19:00,20.1,90
+Koramangala,2026-08-21T20:00,19.8,92
+Koramangala,2026-08-21T21:00,19.7,91
+Koramangala,2026-08-21T22:00,19.6,92
+Koramangala,2026-08-21T23:00,19.7,92
+Koramangala,2026-08-22T00:00,20.2,89
+Koramangala,2026-08-22T01:00,20.5,88
+Koramangala,2026-08-22T02:00,21.1,86
+Koramangala,2026-08-22T03:00,22.6,78
+Koramangala,2026-08-22T04:00,23.7,71
+Koramangala,2026-08-22T05:00,24.6,67
+Koramangala,2026-08-22T06:00,25.9,62
+Koramangala,2026-08-22T07:00,27.6,55
+Koramangala,2026-08-22T08:00,28.2,53
+Koramangala,2026-08-22T09:00,26.6,59
+Koramangala,2026-08-22T10:00,26.2,65
+Koramangala,2026-08-22T11:00,27.3,62
+Koramangala,2026-08-22T12:00,25.5,70
+Koramangala,2026-08-22T13:00,24.9,73
+Koramangala,2026-08-22T14:00,24.1,73
+Koramangala,2026-08-22T15:00,23.3,78
+Koramangala,2026-08-22T16:00,22.5,82
+Koramangala,2026-08-22T17:00,21.7,85
+Koramangala,2026-08-22T18:00,21.0,88
+Koramangala,2026-08-22T19:00,20.6,90
+Koramangala,2026-08-22T20:00,20.1,93
+Koramangala,2026-08-22T21:00,19.9,93
+Koramangala,2026-08-22T22:00,19.8,93
+Koramangala,2026-08-22T23:00,20.0,92
+Koramangala,2026-08-23T00:00,20.1,91
+Koramangala,2026-08-23T01:00,20.4,89
+Koramangala,2026-08-23T02:00,21.1,86
+Koramangala,2026-08-23T03:00,23.1,75
+Koramangala,2026-08-23T04:00,24.3,69
+Koramangala,2026-08-23T05:00,25.1,66
+Koramangala,2026-08-23T06:00,26.2,61
+Koramangala,2026-08-23T07:00,26.9,59
+Koramangala,2026-08-23T08:00,28.4,53
+Koramangala,2026-08-23T09:00,27.8,55
+Koramangala,2026-08-23T10:00,27.8,60
+Koramangala,2026-08-23T11:00,24.5,73
+Koramangala,2026-08-23T12:00,23.6,82
+Koramangala,2026-08-23T13:00,23.1,87
+Koramangala,2026-08-23T14:00,21.5,91
+Koramangala,2026-08-23T15:00,21.4,90
+Koramangala,2026-08-23T16:00,21.4,91
+Koramangala,2026-08-23T17:00,21.2,91
+Koramangala,2026-08-23T18:00,20.8,93
+Koramangala,2026-08-23T19:00,20.7,92
+Koramangala,2026-08-23T20:00,20.7,91
+Koramangala,2026-08-23T21:00,20.7,90
+Koramangala,2026-08-23T22:00,20.7,89
+Koramangala,2026-08-23T23:00,20.7,89
+Koramangala,2026-08-24T00:00,20.9,88
+Koramangala,2026-08-24T01:00,21.2,87
+Koramangala,2026-08-24T02:00,21.8,84
+Koramangala,2026-08-24T03:00,22.5,81
+Koramangala,2026-08-24T04:00,23.8,74
+Koramangala,2026-08-24T05:00,25.2,67
+Koramangala,2026-08-24T06:00,26.4,62
+Koramangala,2026-08-24T07:00,27.1,59
+Koramangala,2026-08-24T08:00,27.5,57
+Koramangala,2026-08-24T09:00,27.3,58
+Koramangala,2026-08-24T10:00,25.9,65
+Koramangala,2026-08-24T11:00,24.0,75
+Koramangala,2026-08-24T12:00,22.5,84
+Koramangala,2026-08-24T13:00,22.2,88
+Koramangala,2026-08-24T14:00,22.3,88
+Koramangala,2026-08-24T15:00,22.3,88
+Koramangala,2026-08-24T16:00,22.0,88
+Koramangala,2026-08-24T17:00,21.5,89
+Koramangala,2026-08-24T18:00,21.1,90
+Koramangala,2026-08-24T19:00,20.9,90
+Koramangala,2026-08-24T20:00,20.7,91
+Koramangala,2026-08-24T21:00,20.6,91
+Koramangala,2026-08-24T22:00,20.5,90
+Koramangala,2026-08-24T23:00,20.5,89
+Koramangala,2026-08-25T00:00,20.7,88
+Koramangala,2026-08-25T01:00,20.8,89
+Koramangala,2026-08-25T02:00,21.1,89
+Koramangala,2026-08-25T03:00,21.7,86
+Koramangala,2026-08-25T04:00,23.1,79
+Koramangala,2026-08-25T05:00,24.8,70
+Koramangala,2026-08-25T06:00,26.2,63
+Koramangala,2026-08-25T07:00,27.0,61
+Koramangala,2026-08-25T08:00,27.6,60
+Koramangala,2026-08-25T09:00,27.5,61
+Koramangala,2026-08-25T10:00,26.5,66
+Koramangala,2026-08-25T11:00,24.9,74
+Koramangala,2026-08-25T12:00,23.5,82
+Koramangala,2026-08-25T13:00,22.6,86
+Koramangala,2026-08-25T14:00,21.9,87
+Koramangala,2026-08-25T15:00,21.4,89
+Koramangala,2026-08-25T16:00,21.2,90
+Koramangala,2026-08-25T17:00,21.1,90
+Koramangala,2026-08-25T18:00,21.0,91
+Koramangala,2026-08-25T19:00,20.8,91
+Koramangala,2026-08-25T20:00,20.7,91
+Koramangala,2026-08-25T21:00,20.5,91
+Koramangala,2026-08-25T22:00,20.0,92
+Koramangala,2026-08-25T23:00,20.1,91
+Koramangala,2026-08-26T00:00,20.4,89
+Koramangala,2026-08-26T01:00,21.0,85
+Koramangala,2026-08-26T02:00,22.0,80
+Koramangala,2026-08-26T03:00,23.1,75
+Koramangala,2026-08-26T04:00,24.3,70
+Koramangala,2026-08-26T05:00,25.3,66
+Koramangala,2026-08-26T06:00,26.1,63
+Koramangala,2026-08-26T07:00,26.5,61
+Koramangala,2026-08-26T08:00,26.9,60
+Koramangala,2026-08-26T09:00,27.1,59
+Koramangala,2026-08-26T10:00,27.2,59
+Koramangala,2026-08-26T11:00,27.0,59
+Koramangala,2026-08-26T12:00,26.7,61
+Koramangala,2026-08-26T13:00,26.1,63
+Koramangala,2026-08-26T14:00,25.1,68
+Koramangala,2026-08-26T15:00,24.0,73
+Koramangala,2026-08-26T16:00,22.9,79
+Koramangala,2026-08-26T17:00,21.9,85
+Koramangala,2026-08-26T18:00,21.2,89
+Koramangala,2026-08-26T19:00,20.7,91
+Koramangala,2026-08-26T20:00,20.4,93
+Koramangala,2026-08-26T21:00,20.3,93
+Koramangala,2026-08-26T22:00,20.3,93
+Koramangala,2026-08-26T23:00,20.4,91
